@@ -17,4 +17,4 @@ The `prompt_interval_adder` program processes large text files by inserting a sp
 Clone this repository to your machine using:
 
 ```bash
-git clone https://github.com/<your-username>/prompt-interval-adder.git
+git clone https://github.com/QuantumCipherMaster/prompt-interval-adder.git
